@@ -1,3 +1,4 @@
+name 'aspell'
 maintainer       "Sean Culver"
 maintainer_email "seanculver@gmail.com"
 license          "GPL"
